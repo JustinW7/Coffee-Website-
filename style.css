@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.star {
+  font-size: 25px;
+  margin-left: -10%;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bold;
+  text-align: justify;
+}
+.startp {
+  margin-left: -5%;
+  margin-right: 10%;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 20px;
+  font-weight: 500;
+  text-align: justify;
+  width: 650px;
+}
+.stick { 
+  position: sticky;
+  top: -1px;
+}
+.ima {
+  width: 250px;
+  
+  border-radius: 13px;
+  height: 250px;
+}
+.tds{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+}
+.inp{
+  height: 30px;
+    width: 350px;
+    border-radius: 5px;
+}
